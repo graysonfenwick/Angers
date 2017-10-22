@@ -1,0 +1,47 @@
+Mono path[0] = 'D:/BAB Shared Memory/Ball-and-BeamSimple/VirtualBallBeam_Data/Managed'
+Mono path[1] = 'D:/BAB Shared Memory/Ball-and-BeamSimple/VirtualBallBeam_Data/Mono'
+Mono config path = 'D:/BAB Shared Memory/Ball-and-BeamSimple/VirtualBallBeam_Data/Mono/etc'
+PlayerConnection initialized from D:/BAB Shared Memory/Ball-and-BeamSimple/VirtualBallBeam_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55258
+Multi-casting "[IP] 172.20.83.147 [Port] 55258 [Flags] 3 [Guid] 768322459 [EditorId] 1739747604 [Version] 1048832 [Id] WindowsPlayer(GA211-FE07) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55258]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55258]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56459
+PlayerConnection already initialized - listening to [0.0.0.0:55258]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.5891]
+    Renderer: NVIDIA GeForce GTX 980
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\LabJack.LJM.dll (this message is harmless)
+Loading D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\LabJack.LJM.dll into Unity Child Domain
+Platform assembly: D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\LJDotNet.dll (this message is harmless)
+Loading D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\LJDotNet.dll into Unity Child Domain
+Platform assembly: D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\LJUDDotNet.dll (this message is harmless)
+Loading D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\LJUDDotNet.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\BAB Shared Memory\Ball-and-BeamSimple\VirtualBallBeam_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.101443 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4ec -> priority: 1 
+  Thread -> id: 1b78 -> priority: 1 

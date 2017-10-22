@@ -1,0 +1,15 @@
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\obj\x86\Debug\WFClientBAB.Form1.resources
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\obj\x86\Debug\WFClientBAB.Properties.Resources.resources
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\obj\x86\Debug\WFClientBAB.csproj.GenerateResource.Cache
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\bin\Debug\WFClientBAB.exe
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\bin\Debug\WFClientBAB.pdb
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\obj\x86\Debug\WFClientBAB.exe
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\obj\x86\Debug\WFClientBAB.pdb
+D:\BAB Shared Memory\WFClientBABAutControl\WFClientBAB\obj\x86\Debug\WFClientBAB.exe
+D:\BAB Shared Memory\WFClientBABAutControl\WFClientBAB\obj\x86\Debug\WFClientBAB.pdb
+D:\BAB Shared Memory\WFClientBABAutControl\WFClientBAB\bin\Debug\WFClientBAB.exe
+D:\BAB Shared Memory\WFClientBABAutControl\WFClientBAB\bin\Debug\WFClientBAB.pdb
+D:\BAB Shared Memory\WFClientBABAutControl\WFClientBAB\obj\x86\Debug\WFClientBAB.csprojResolveAssemblyReference.cache
+D:\BAB Shared Memory\WFClientBABAutControl\WFClientBAB\obj\x86\Debug\WFClientBAB.Form1.resources
+D:\BAB Shared Memory\WFClientBABAutControl\WFClientBAB\obj\x86\Debug\WFClientBAB.Properties.Resources.resources
+D:\BAB Shared Memory\WFClientBABAutControl\WFClientBAB\obj\x86\Debug\WFClientBAB.csproj.GenerateResource.Cache

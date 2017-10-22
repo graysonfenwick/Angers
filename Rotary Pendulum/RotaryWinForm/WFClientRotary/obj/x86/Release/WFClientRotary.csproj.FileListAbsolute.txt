@@ -1,0 +1,8 @@
+D:\Rotary Pendulum\RotaryWinForm\WFClientRotary\bin\Release\WFClientBAB.exe
+D:\Rotary Pendulum\RotaryWinForm\WFClientRotary\bin\Release\WFClientBAB.pdb
+D:\Rotary Pendulum\RotaryWinForm\WFClientRotary\obj\x86\Release\WFClientRotary.Form2.resources
+D:\Rotary Pendulum\RotaryWinForm\WFClientRotary\obj\x86\Release\WFClientRotary.Form1.resources
+D:\Rotary Pendulum\RotaryWinForm\WFClientRotary\obj\x86\Release\WFClientBAB.Properties.Resources.resources
+D:\Rotary Pendulum\RotaryWinForm\WFClientRotary\obj\x86\Release\WFClientRotary.csproj.GenerateResource.Cache
+D:\Rotary Pendulum\RotaryWinForm\WFClientRotary\obj\x86\Release\WFClientBAB.exe
+D:\Rotary Pendulum\RotaryWinForm\WFClientRotary\obj\x86\Release\WFClientBAB.pdb

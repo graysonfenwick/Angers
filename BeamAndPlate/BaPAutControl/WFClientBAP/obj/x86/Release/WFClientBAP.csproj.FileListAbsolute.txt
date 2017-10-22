@@ -1,0 +1,8 @@
+D:\BAB Shared Memory\BaPAutControl\WFClientBAP\bin\Release\WFClientBAB.exe
+D:\BAB Shared Memory\BaPAutControl\WFClientBAP\bin\Release\WFClientBAB.pdb
+D:\BAB Shared Memory\BaPAutControl\WFClientBAP\obj\x86\Release\WFClientBAP.Form2.resources
+D:\BAB Shared Memory\BaPAutControl\WFClientBAP\obj\x86\Release\WFClientBAP.Form1.resources
+D:\BAB Shared Memory\BaPAutControl\WFClientBAP\obj\x86\Release\WFClientBAB.Properties.Resources.resources
+D:\BAB Shared Memory\BaPAutControl\WFClientBAP\obj\x86\Release\WFClientBAP.csproj.GenerateResource.Cache
+D:\BAB Shared Memory\BaPAutControl\WFClientBAP\obj\x86\Release\WFClientBAB.exe
+D:\BAB Shared Memory\BaPAutControl\WFClientBAP\obj\x86\Release\WFClientBAB.pdb

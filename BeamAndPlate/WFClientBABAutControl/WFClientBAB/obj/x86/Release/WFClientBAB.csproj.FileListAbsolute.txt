@@ -1,0 +1,31 @@
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.Form1.resources
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.Properties.Resources.resources
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.csproj.GenerateResource.Cache
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\bin\Release\WFClientBAB.exe
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\bin\Release\WFClientBAB.pdb
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.exe
+E:\Local\Enseignement\Projet\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.pdb
+E:\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.exe
+E:\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.pdb
+E:\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\bin\Release\WFClientBAB.exe
+E:\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\bin\Release\WFClientBAB.pdb
+E:\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.Form1.resources
+E:\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.Properties.Resources.resources
+E:\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.csproj.GenerateResource.Cache
+D:\TestU3D\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.exe
+D:\TestU3D\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.pdb
+D:\TestU3D\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\bin\Release\WFClientBAB.exe
+D:\TestU3D\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\bin\Release\WFClientBAB.pdb
+D:\TestU3D\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.csprojResolveAssemblyReference.cache
+D:\TestU3D\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.Form1.resources
+D:\TestU3D\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.Properties.Resources.resources
+D:\TestU3D\BAB Mémoire Partagée\WFClientBAB\WFClientBAB\obj\x86\Release\WFClientBAB.csproj.GenerateResource.Cache
+D:\TestU3D\BAB Mémoire Partagée\WFClientBABAutControl\WFClientBAB\bin\Release\WFClientBAB.exe
+D:\TestU3D\BAB Mémoire Partagée\WFClientBABAutControl\WFClientBAB\bin\Release\WFClientBAB.pdb
+D:\TestU3D\BAB Mémoire Partagée\WFClientBABAutControl\WFClientBAB\obj\x86\Release\WFClientBAB.Form1.resources
+D:\TestU3D\BAB Mémoire Partagée\WFClientBABAutControl\WFClientBAB\obj\x86\Release\WFClientBAB.Properties.Resources.resources
+D:\TestU3D\BAB Mémoire Partagée\WFClientBABAutControl\WFClientBAB\obj\x86\Release\WFClientBAB.csproj.GenerateResource.Cache
+D:\TestU3D\BAB Mémoire Partagée\WFClientBABAutControl\WFClientBAB\obj\x86\Release\WFClientBAB.exe
+D:\TestU3D\BAB Mémoire Partagée\WFClientBABAutControl\WFClientBAB\obj\x86\Release\WFClientBAB.pdb
+D:\BAB Shared Memory\WFClientBABAutControl\WFClientBAB\obj\x86\Release\WFClientBAB.exe
+D:\BAB Shared Memory\WFClientBABAutControl\WFClientBAB\obj\x86\Release\WFClientBAB.pdb

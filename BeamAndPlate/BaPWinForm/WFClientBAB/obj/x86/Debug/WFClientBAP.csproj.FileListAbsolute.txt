@@ -1,0 +1,9 @@
+D:\BAB Shared Memory\BaPWinForm\WFClientBAB\bin\Debug\WFClientBAB.exe
+D:\BAB Shared Memory\BaPWinForm\WFClientBAB\bin\Debug\WFClientBAB.pdb
+D:\BAB Shared Memory\BaPWinForm\WFClientBAB\obj\x86\Debug\WFClientBAP.Form2.resources
+D:\BAB Shared Memory\BaPWinForm\WFClientBAB\obj\x86\Debug\WFClientBAP.Form1.resources
+D:\BAB Shared Memory\BaPWinForm\WFClientBAB\obj\x86\Debug\WFClientBAB.Properties.Resources.resources
+D:\BAB Shared Memory\BaPWinForm\WFClientBAB\obj\x86\Debug\WFClientBAP.csproj.GenerateResource.Cache
+D:\BAB Shared Memory\BaPWinForm\WFClientBAB\obj\x86\Debug\WFClientBAB.exe
+D:\BAB Shared Memory\BaPWinForm\WFClientBAB\obj\x86\Debug\WFClientBAB.pdb
+D:\BAB Shared Memory\BaPWinForm\WFClientBAB\obj\x86\Debug\WFClientBAP.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\CraneControl\CraneWinForm\WFClientBAB\bin\Release\WFClientBAB.exe
+D:\CraneControl\CraneWinForm\WFClientBAB\bin\Release\WFClientBAB.pdb
+D:\CraneControl\CraneWinForm\WFClientBAB\obj\x86\Release\WFClientCrane.Form2.resources
+D:\CraneControl\CraneWinForm\WFClientBAB\obj\x86\Release\WFClientCrane.Form1.resources
+D:\CraneControl\CraneWinForm\WFClientBAB\obj\x86\Release\WFClientBAB.Properties.Resources.resources
+D:\CraneControl\CraneWinForm\WFClientBAB\obj\x86\Release\WFClientCrane.csproj.GenerateResource.Cache
+D:\CraneControl\CraneWinForm\WFClientBAB\obj\x86\Release\WFClientBAB.exe
+D:\CraneControl\CraneWinForm\WFClientBAB\obj\x86\Release\WFClientBAB.pdb
